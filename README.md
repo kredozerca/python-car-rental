@@ -1,4 +1,4 @@
-# python-portfolio
+# python-car-rental
 
 Project which use database. Car Rental allows to reserve and borrow selected car from lists.
 As a user you can choose the car brand, model and date.
